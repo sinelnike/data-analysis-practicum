@@ -14,6 +14,19 @@
   </thead>
   <tbody>
     <tr>
+      <td><a href="https://github.com/sinelnike/data-analysis-practicum/tree/main/app-metrics-analysis"><b>Анализ рентабельности рекламы приложения</b></a></td>
+      <td>
+        <code>python</code>
+        <code>pandas</code>
+        <code>matplotlib</code>
+      </td>
+      <td>
+        •&nbsp;проанализировал аудитория приложения и рентабельность рекламы<br>
+        •&nbsp;посчитал LTV, CAC, ROI, DAU, MAU, RR<br>
+        •&nbsp;сформулировал рекомендации для отдела маркетинга<br>
+      </td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/sinelnike/data-analysis-practicum/tree/main/ab-test"><b>Оценка результатов A/B-теста,<br>приоритизация гипотез</b></a></td>
       <td>
         <code>python</code>
@@ -27,7 +40,7 @@
         •&nbsp;нашёл статистически значимые различия в метриках и выбрал лучшую группу
       </td>
     </tr>
-        <tr>
+    <tr>
       <td><a href="https://github.com/sinelnike/data-analysis-practicum/tree/main/test-app-fonts"><b>Исследование влияния изменения шрифтов на поведение пользователей приложения</b></a></td>
       <td>
         <code>python</code>
