@@ -16,10 +16,10 @@
     <tr>
       <td><a href="https://github.com/sinelnike/data-analysis-practicum/tree/main/ab-test"><b>Оценка результатов A/B-теста,<br>приоритизация гипотез</b></a></td>
       <td>
-        <img alt="brightgreen" src="https://img.shields.io/badge/python-4078c0">
-        <img alt="brightgreen" src="https://img.shields.io/badge/pandas-4078c0">
-        <img alt="brightgreen" src="https://img.shields.io/badge/scipy-4078c0">
-        <img alt="brightgreen" src="https://img.shields.io/badge/plotly-4078c0">
+        <code>python</code>
+        <code>pandas</code>
+        <code>scipy</code>
+        <code>plotly</code>
       </td>
       <td>
         •&nbsp;приоритизировал гипотезы с ICE и RICE<br>
@@ -30,10 +30,10 @@
         <tr>
       <td><a href="https://github.com/sinelnike/data-analysis-practicum/tree/main/test-app-fonts"><b>Исследование влияния изменения шрифтов на поведение пользователей приложения</b></a></td>
       <td>
-        <img alt="brightgreen" src="https://img.shields.io/badge/python-4078c0">
-        <img alt="brightgreen" src="https://img.shields.io/badge/pandas-4078c0">
-        <img alt="brightgreen" src="https://img.shields.io/badge/scipy-4078c0">
-        <img alt="brightgreen" src="https://img.shields.io/badge/plotly-4078c0">
+        <code>python</code>
+        <code>pandas</code>
+        <code>scipy</code>
+        <code>plotly</code>
       <td>
         •&nbsp;провёл A/A/B тестирование изменения шрифтов в приложении<br>
         •&nbsp;сформировал воронку<br>
